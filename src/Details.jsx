@@ -1,6 +1,25 @@
-
+import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
 
 const Details = ({details}) => {
+
+
+     const handleToast = () => {
+
+       toast('You have successfully read this book')
+      
+
+     }
+
+     const handleToast2 = () => {
+
+        toast('You have successfully read this book')
+       
+ 
+      }
+
+
+
 
      const {images, adult, identity, book_name, author_name, type,
     
@@ -18,7 +37,7 @@ const Details = ({details}) => {
                <img src={images} className=" h-[600px] w-[500px] rounded-lg shadow-2xl" />
                <div>
                  <h1 className="text-5xl font-bold "> {book_name} </h1>
-                 <p className="text-xl font-extrabold mt-1"> by: {author_name}   </p>
+                 <p className="text-xl font-extrabold mt-3"> by: {author_name}   </p>
                   <p className=" text-xl font-bold mt-3 mb-3"> {type} </p>
                  <p className=" text-xl text-slate-400  mt-2"> review {review}  </p>
 
@@ -29,15 +48,15 @@ const Details = ({details}) => {
                   </div>
                    <p className=" text-xl font-bold text-blue-600"> number of pages {Number_of_Pages} </p>
                    <p className=" text-xl font-bold text-blue-600"> Publisher: {Publisher} </p>
-                   <p className=" text-xl font-bold text-blue-600">Year of Publishing: {Number_of_Pages} </p>
+                   <p className=" text-xl font-bold text-blue-600">Year of Publishing: {Year_of_Publishing} </p>
                    <p className=" text-xl font-bold text-blue-600"> rate:  {rate} </p>
 
                 <div>
                       
-                   <button className=" btn text-xl w-[100px] border-[1px] border-blue-500">Read</button>
-                   <button className=" btn text-xl w-[100px] border-[1px] border-blue-500 bg-blue-500 text-white ml-2">Wishlist</button>
-
-
+                   <button onClick={handleToast} className=" btn text-xl w-[100px] border-[1px] border-blue-500">Read</button>
+                   <button onClick={handleToast2} className=" btn text-xl w-[100px] border-[1px] border-blue-500 bg-blue-500 text-white ml-2">Wishlist</button>
+                   <ToastContainer />
+ 
                 </div>
                </div>
              </div>
