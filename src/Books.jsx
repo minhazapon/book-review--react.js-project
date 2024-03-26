@@ -36,7 +36,7 @@ const Books = () => {
       
           <div>
                
-               <h1 className=" text-center font-extrabold text-5xl mb-10 text-blue-600">Books  </h1>
+               <h1 className=" text-center font-extrabold text-5xl mb-10 text-blue-600">Books</h1>
 
           </div>
 

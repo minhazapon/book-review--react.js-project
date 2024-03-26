@@ -11,9 +11,9 @@
         "type": "programming ",
         "rate": "5.00",
         "review": "  In 'Clean Code: A Handbook of Agile Software Craftsmanship,' Robert C. Martin presents a timeless guide to writing clean, maintainable code that stands the test of time. Through practical examples and insightful anecdotes, Martin demonstrates the importance of writing code that is not only functional but also elegant and easy to understand. He introduces readers to foundational principles such as meaningful naming, proper code structure, and effective commenting, while also delving into advanced topics like refactoring and test-driven development. Whether you're a novice programmer or a seasoned veteran, 'Clean Code' offers invaluable wisdom and best practices that can elevate your coding skills and enhance the quality of your software projects.",
-        "Number of Pages": " 300 ",
+        "Number_of_Pages": " 300 ",
         "Publisher": " brendan each ",
-        "Year of Publishing": " 2002 "
+        "YearOfPublishing": " 2002 "
          
 
     
@@ -29,9 +29,9 @@
         "type": "programming ",
         "rate": "5.00",
         "review": "  In 'Clean Code: A Handbook of Agile Software Craftsmanship,' Robert C. Martin presents a timeless guide to writing clean, maintainable code that stands the test of time. Through practical examples and insightful anecdotes, Martin demonstrates the importance of writing code that is not only functional but also elegant and easy to understand. He introduces readers to foundational principles such as meaningful naming, proper code structure, and effective commenting, while also delving into advanced topics like refactoring and test-driven development. Whether you're a novice programmer or a seasoned veteran, 'Clean Code' offers invaluable wisdom and best practices that can elevate your coding skills and enhance the quality of your software projects.",
-        "Number of Pages": " 300 ",
+        "Number_of_Pages": " 300 ",
         "Publisher": " Tim Berners-Lee ",
-        "Year of Publishing": " 2001 "
+        "YearOfPublishing": " 2001 "
          
     },
     {
@@ -44,9 +44,9 @@
         "type": "programming ",
         "rate": "5.00",
         "review": "  In 'Clean Code: A Handbook of Agile Software Craftsmanship,' Robert C. Martin presents a timeless guide to writing clean, maintainable code that stands the test of time. Through practical examples and insightful anecdotes, Martin demonstrates the importance of writing code that is not only functional but also elegant and easy to understand. He introduces readers to foundational principles such as meaningful naming, proper code structure, and effective commenting, while also delving into advanced topics like refactoring and test-driven development. Whether you're a novice programmer or a seasoned veteran, 'Clean Code' offers invaluable wisdom and best practices that can elevate your coding skills and enhance the quality of your software projects.",
-        "Number of Pages": " 400 ",
+        "Number_of_Pages": " 400 ",
         "Publisher": " Kamel Founadi ",
-        "Year of Publishing": " 2005 "
+        "YearOfPublishing": " 2005 "
          
       
    
@@ -61,9 +61,9 @@
         "type": "programming",
         "rate": "5.00",
         "review": "  In 'Clean Code: A Handbook of Agile Software Craftsmanship,' Robert C. Martin presents a timeless guide to writing clean, maintainable code that stands the test of time. Through practical examples and insightful anecdotes, Martin demonstrates the importance of writing code that is not only functional but also elegant and easy to understand. He introduces readers to foundational principles such as meaningful naming, proper code structure, and effective commenting, while also delving into advanced topics like refactoring and test-driven development. Whether you're a novice programmer or a seasoned veteran, 'Clean Code' offers invaluable wisdom and best practices that can elevate your coding skills and enhance the quality of your software projects.",
-        "Number of Pages": " 450 ",
+        "Number_of_Pages": " 450 ",
         "Publisher": " Kevin Ryan",
-        "Year of Publishing": " 2006 "
+        "YearOfPublishing": " 2006 "
          
          
       
@@ -78,9 +78,9 @@
         "type": "programming ",
         "rate": "5.00",
         "review": "  In 'Clean Code: A Handbook of Agile Software Craftsmanship,' Robert C. Martin presents a timeless guide to writing clean, maintainable code that stands the test of time. Through practical examples and insightful anecdotes, Martin demonstrates the importance of writing code that is not only functional but also elegant and easy to understand. He introduces readers to foundational principles such as meaningful naming, proper code structure, and effective commenting, while also delving into advanced topics like refactoring and test-driven development. Whether you're a novice programmer or a seasoned veteran, 'Clean Code' offers invaluable wisdom and best practices that can elevate your coding skills and enhance the quality of your software projects.",
-        "Number of Pages": " 450 ",
+        "Number_of_Pages": " 450 ",
         "Publisher": "jordan walke",
-        "Year of Publishing": " 2013 "
+        "YearOfPublishing": " 2013 "
          
          
       
@@ -98,7 +98,7 @@
         "review": "  In 'Clean Code: A Handbook of Agile Software Craftsmanship,' Robert C. Martin presents a timeless guide to writing clean, maintainable code that stands the test of time. Through practical examples and insightful anecdotes, Martin demonstrates the importance of writing code that is not only functional but also elegant and easy to understand. He introduces readers to foundational principles such as meaningful naming, proper code structure, and effective commenting, while also delving into advanced topics like refactoring and test-driven development. Whether you're a novice programmer or a seasoned veteran, 'Clean Code' offers invaluable wisdom and best practices that can elevate your coding skills and enhance the quality of your software projects.",
         "Number_of_Pages": " 450 ",
         "Publisher": "Guillermo Rauch",
-        "Year_of_Publishing": " 2015 "
+        "YearOfPublishing": " 2015 "
    
     }
    

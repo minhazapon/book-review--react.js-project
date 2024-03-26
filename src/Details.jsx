@@ -23,7 +23,7 @@ const Details = ({details}) => {
 
      const {images, adult, identity, book_name, author_name, type,
     
-        rate, review, Number_of_Pages, Publisher, Year_of_Publishing
+        rate, review, Number_of_Pages, Publisher, YearOfPublishing
     
        } = details;
 
@@ -48,7 +48,7 @@ const Details = ({details}) => {
                   </div>
                    <p className=" text-xl font-bold text-blue-600"> number of pages {Number_of_Pages} </p>
                    <p className=" text-xl font-bold text-blue-600"> Publisher: {Publisher} </p>
-                   <p className=" text-xl font-bold text-blue-600">Year of Publishing: {Year_of_Publishing} </p>
+                   <p className=" text-xl font-bold text-blue-600">Year of Publishing: {YearOfPublishing} </p>
                    <p className=" text-xl font-bold text-blue-600"> rate:  {rate} </p>
 
                 <div>

@@ -30,7 +30,7 @@ const BookDetails = () => {
 
                     <img className=" h-[50px]" src="https://i.ibb.co/LQJgh8P/book-2.png" alt="" />
                
-                   <h1 className=" text-5xl font-extrabold text-center ">Book Details {details.length}  </h1>
+                   <h1 className=" text-5xl font-extrabold text-center ">Book Details   </h1>
 
                 </div>
 
