@@ -1,9 +1,13 @@
+import { Link } from "react-router-dom";
 
 const BookInfo = ({book}) => {
 
     const {images, adult, identity, book_name, author_name, type, rate} = book
 
     return (
+  
+
+       <Link to="/BookDetails" >
         <div>
             
               <div>
@@ -36,24 +40,11 @@ const BookInfo = ({book}) => {
                 </div>
 
              </div>
-
-
-
-
-
-
-
-
-
-
-
-
               </div>
 
-
-
-
         </div>
+
+        </Link>
     );
 };
 
