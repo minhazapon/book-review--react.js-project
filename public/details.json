@@ -96,9 +96,9 @@
         "type": "programming ",
         "rate": "5.00",
         "review": "  In 'Clean Code: A Handbook of Agile Software Craftsmanship,' Robert C. Martin presents a timeless guide to writing clean, maintainable code that stands the test of time. Through practical examples and insightful anecdotes, Martin demonstrates the importance of writing code that is not only functional but also elegant and easy to understand. He introduces readers to foundational principles such as meaningful naming, proper code structure, and effective commenting, while also delving into advanced topics like refactoring and test-driven development. Whether you're a novice programmer or a seasoned veteran, 'Clean Code' offers invaluable wisdom and best practices that can elevate your coding skills and enhance the quality of your software projects.",
-        "Number of Pages": " 450 ",
+        "Number_of_Pages": " 450 ",
         "Publisher": "Guillermo Rauch",
-        "Year of Publishing": " 2015 "
+        "Year_of_Publishing": " 2015 "
    
     }
    
