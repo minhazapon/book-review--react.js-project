@@ -15,7 +15,7 @@ const Details = ({details}) => {
 
             <div className="hero  bg-base-200 ">
              <div className="hero-content flex-col lg:flex-row">
-               <img src={images} className=" h-[500px] w-[500px] rounded-lg shadow-2xl" />
+               <img src={images} className=" h-[600px] w-[500px] rounded-lg shadow-2xl" />
                <div>
                  <h1 className="text-5xl font-bold "> {book_name} </h1>
                  <p className="text-xl font-extrabold mt-1"> by: {author_name}   </p>
@@ -32,7 +32,13 @@ const Details = ({details}) => {
                    <p className=" text-xl font-bold text-blue-600">Year of Publishing: {Number_of_Pages} </p>
                    <p className=" text-xl font-bold text-blue-600"> rate:  {rate} </p>
 
-                 <button className="btn btn-primary">Get Started</button>
+                <div>
+                      
+                   <button className=" btn text-xl w-[100px] border-[1px] border-blue-500">Read</button>
+                   <button className=" btn text-xl w-[100px] border-[1px] border-blue-500 bg-blue-500 text-white ml-2">Wishlist</button>
+
+
+                </div>
                </div>
              </div>
            </div>
