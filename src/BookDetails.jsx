@@ -8,12 +8,12 @@ const BookDetails = () => {
 
               <hr></hr>
 
-              
-            <div>
 
-                   
+            <div className=" flex justify-center items-center gap-5 mt-10">
+
+                    <img className=" h-[50px]" src="https://i.ibb.co/LQJgh8P/book-2.png" alt="" />
                
-                   <h1 className=" text-5xl font-extrabold text-center mt-10">Book Details</h1>
+                   <h1 className=" text-5xl font-extrabold text-center ">Book Details</h1>
 
             </div>
             
