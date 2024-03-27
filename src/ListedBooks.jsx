@@ -1,7 +1,22 @@
+import { useEffect } from "react";
+import { useState } from "react";
+import List from "./List";
 
 
 
 const ListedBooks = () => {
+
+    const [list , setList] = useState([])
+
+
+    useEffect( () => {
+
+       fetch('listed.json')
+       .then(res => res.json())
+       .then(data => setList(data))
+
+
+    } , [])
 
 
 
@@ -41,10 +56,26 @@ const ListedBooks = () => {
 
              <div>
 
-                <h1 className=" font-bold text-2xl mt-10">Read Books:  </h1>
+                <h1 className=" font-bold text-2xl mt-10">Read Books:   </h1>
              </div>
 
              <hr className=" mt-10"></hr>
+
+
+
+            <div className=" flex justify-center items-center">
+
+            <div className="">
+
+            {
+
+              list.map( list => <List key={list.id} list={list}  ></List> )
+            }
+ 
+            </div>
+
+            </div>
+
 
         </div>
     );
