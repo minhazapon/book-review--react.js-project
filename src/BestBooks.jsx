@@ -30,7 +30,7 @@ const BestBooks = () => {
 
 
             <div className=" flex justify-center items-center mt-5">
-            <div className=" grid grid-cols-3 gap-5">
+            <div className=" grid  md:grid-cols-3 gap-5">
 
 
                {
